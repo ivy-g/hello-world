@@ -1,2 +1,2 @@
 # hello-world
-42
+what is 6 times 7
